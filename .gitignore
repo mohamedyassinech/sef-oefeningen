@@ -1,0 +1,10 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Systeembestanden
+.DS_Store
+desktop.ini
